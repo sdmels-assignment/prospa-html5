@@ -1,0 +1,14 @@
+# Node Files #
+/node_modules
+/bower_components
+npm-debug.log
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# TypeScript generated files
+src/**/*.js
+src/**/*.js.map
