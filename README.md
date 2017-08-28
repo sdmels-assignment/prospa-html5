@@ -12,6 +12,7 @@ Make sure you have Node version >= 5.0 and NPM >= 3.  You can get them from [htt
 You must also have the package manager yarn installed. You can download the installer from https://yarnpkg.com/en/docs/install or run the command:
 ```
 npm install -g yarn
+```
 
 ### Clone `Prospa Design`
 
@@ -22,6 +23,7 @@ Clone the `prospa-html5` repository using **git**:
 ```
 git clone https://github.com/sdmels-assignment/prospa-html5.git
 ```
+
 ### Install Dependencies
 
 In order to install project dependencies you can simply run command:
@@ -37,3 +39,4 @@ To start the application locally in watch mode:
 
 ```
 yarn start
+```
